@@ -1,5 +1,3 @@
-markdown: kramdown 
-
 ## Pablo Tapia
 
 Ingeniero Comercial ( :zipper_mouth_face: ) de la Universidad Adolfo Ibañez. Msc in Finance Universidad Adolfo Ibañez.
