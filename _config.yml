@@ -1,1 +1,5 @@
+name: asd
+description: lorem ipsum
+
 theme: jekyll-theme-minimal
+markdown: kramdown 
