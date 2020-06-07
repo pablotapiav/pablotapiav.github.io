@@ -1,6 +1,6 @@
 ## Pablo Tapia
 
-Ingeniero Comercial ( :flushed: ) de la Universidad Adolfo Ibañez. Msc in Finance Universidad Adolfo Ibañez.
+Ingeniero Comercial ( :zipper_mouth_face: ) de la Universidad Adolfo Ibañez. Msc in Finance Universidad Adolfo Ibañez.
 Intereses en Text Mining, Stock Market, Football Analysis.
 
 ### Me pueden encontrar en:
