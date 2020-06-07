@@ -1,9 +1,11 @@
-## Pablo Tapia
+##  Hello World =)
 
-Ingeniero Comercial ( :zipper_mouth_face: ) de la Universidad Adolfo Ibañez. Msc in Finance Universidad Adolfo Ibañez.
+Venido desde un pueblito al sur de Concepción, Curanilahue, me formé profesionalmente como Ingeniero Comercial (Siguiendo por el area de Finanzas), desde mis tiempos universitarios comienzo a trabajar en 2016 para Football Manager, el juego de simulación futbolistica lider en su area. Desde ahí comienza un entretenido camino aprendiendo SQL, R, etc.
+
+Actualmente trabajo en el area de riesgo financiero. Además hago clases Online de analisis de datos desde un punto de vista futbolístico.
+He realizado workshops introductorios a empresas para el uso de R y las posibilidades que este codigo le puede brindar a pymes. Pueden revisar este curso dentro de mis repositorios.
+
 Intereses en Text Mining, Stock Market, Football Analysis.
-
-:zipper_mouth_face:
 
 ### Me pueden encontrar en:
 
