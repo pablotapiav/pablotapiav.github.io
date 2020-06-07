@@ -1,16 +1,8 @@
 ##  Hello World =)
 
-![](https://i.ibb.co/Yk3nPtM/31412243-190424451601569-6064871186368561152-n.jpg =250x250)
 
-![]( =250x250)
 
-![test image size](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png){:height="700px" width="400px"}
-
-![test image size](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png){:height="50%" width="50%"}
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png?v=4&s=200)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png?v=1&s=400)
+![Imgur](https://i.imgur.com/nSUWbbG.png)
 
 Venido desde un pueblito al sur de Concepción, Curanilahue, me formé profesionalmente como Ingeniero Comercial (Siguiendo por el area de Finanzas), desde mis tiempos universitarios comienzo a trabajar en 2016 para Football Manager, el juego de simulación futbolistica lider en su area. Desde ahí comienza un entretenido camino aprendiendo SQL, R, etc.
 
