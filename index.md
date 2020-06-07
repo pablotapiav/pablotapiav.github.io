@@ -3,7 +3,7 @@
 Ingeniero Comercial ( :zipper_mouth_face: ) de la Universidad Adolfo Ibañez. Msc in Finance Universidad Adolfo Ibañez.
 Intereses en Text Mining, Stock Market, Football Analysis.
 
-[logo]:(https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png)
+:zipper_mouth_face:
 
 ### Me pueden encontrar en:
 
