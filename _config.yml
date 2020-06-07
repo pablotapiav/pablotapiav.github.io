@@ -3,3 +3,6 @@ description: Ingeniero Comercial de la Universidad Adolfo Ibanez. Msc in Finance
 theme: jekyll-theme-minimal
 markdown: kramdown 
 url: https://github.com/pablotapiav
+
+plugins:
+  - jemoji
