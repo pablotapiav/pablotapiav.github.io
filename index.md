@@ -1,6 +1,8 @@
 ##  Hello World =)
 
-![](hhttps://i.ibb.co/Yk3nPtM/31412243-190424451601569-6064871186368561152-n.jpg =250x250)
+![](https://i.ibb.co/Yk3nPtM/31412243-190424451601569-6064871186368561152-n.jpg =250x250)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
 
 Venido desde un pueblito al sur de Concepción, Curanilahue, me formé profesionalmente como Ingeniero Comercial (Siguiendo por el area de Finanzas), desde mis tiempos universitarios comienzo a trabajar en 2016 para Football Manager, el juego de simulación futbolistica lider en su area. Desde ahí comienza un entretenido camino aprendiendo SQL, R, etc.
 
